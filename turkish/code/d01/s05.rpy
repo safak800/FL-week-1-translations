@@ -10,103 +10,103 @@ translate turkish s05_ea528ae2:
 translate turkish d01s05_dorm_f3b04182:
 
     # mct "Back home."
-    mct "Back home."
+    mct "Eve Dön"
 
 # game/code/d01/s05.rpy:106
 translate turkish d01s05_dorm_29f79795:
 
     # mct "Pete'll probably be late."
-    mct "Pete'll probably be late."
+    mct "Pete, Muhtemelen geç kalacak."
 
 # game/code/d01/s05.rpy:109
 translate turkish d01s05_dorm_37da6258:
 
     # mct "Okay so what can I do?"
-    mct "Okay so what can I do?"
+    mct "Tamam, ne yapabilirim?"
 
 # game/code/d01/s05.rpy:112
 translate turkish d01s05_dorm_dcf06f7a:
 
     # mct "Now that I'm not going to see AmRose - it's time to come up with something to get the points."
-    mct "Now that I'm not going to see AmRose - it's time to come up with something to get the points."
+    mct "Artık AmRose'yi göremeyeceğime göre - Puanları almak için birşey yapmanın zamanı geldi."
 
 # game/code/d01/s05.rpy:115
 translate turkish d01s05_dorm_627ab224:
 
     # mct "Okay, now is the time to come up with ideas on how to get points. All hands on deck!"
-    mct "Okay, now is the time to come up with ideas on how to get points. All hands on deck!"
+    mct "Tamam, şimdi nasıl puan kazanılacağına dair fikirler bulma zamanı. Herkes iş başına!"
 
 # game/code/d01/s05.rpy:120
 translate turkish d01s05_dorm_153b3343:
 
     # "A couple hours later..."
-    "A couple hours later..."
+    "Bir Kaç Saat Sonra..."
 
 # game/code/d01/s05.rpy:122
 translate turkish d01s05_dorm_f1a5f9e3:
 
     # mct "Damn. I got nothing."
-    mct "Damn. I got nothing."
+    mct "Lanet Olsun! Hiç bir şeyim yok."
 
 # game/code/d01/s05.rpy:124
 translate turkish d01s05_dorm_16498b72:
 
     # mct "Let's hope I can do better tomorrow."
-    mct "Let's hope I can do better tomorrow."
+    mct "Umarım yarın daha iyisini yapabilirim."
 
 # game/code/d01/s05.rpy:127
 translate turkish d01s05_dorm_e676377d:
 
     # mct "Let's google what kinky stuff I can do for a cumshot fetish."
-    mct "Let's google what kinky stuff I can do for a cumshot fetish."
+    mct "Yüze boşalma fetişi olan biri için ne tür şeyler yapabileceğimi Google'dan aramalıyım."
 
 # game/code/d01/s05.rpy:130
 translate turkish d01s05_dorm_6fb2fbef:
 
     # "Five minutes later"
-    "Five minutes later"
+    "Beş Dakika Sonra"
 
 # game/code/d01/s05.rpy:132
 translate turkish d01s05_dorm_32267d79:
 
     # mct "Okay, that was a bad idea. I've seen one too many dicks."
-    mct "Okay, that was a bad idea. I've seen one too many dicks."
+    mct "Tamam, bu kötü bir fikirdi çok fazla sik gördüm."
 
 # game/code/d01/s05.rpy:134
 translate turkish d01s05_dorm_fbfbfa2e:
 
     # mct "What else can I do?"
-    mct "What else can I do?"
+    mct "Başka ne yapabilirim?"
 
 # game/code/d01/s05.rpy:136
 translate turkish d01s05_dorm_44f37520:
 
     # mct "Oh fuck! This my chance."
-    mct "Oh fuck! This my chance."
+    mct "Kahretsin!Bu benim şansım."
 
 # game/code/d01/s05.rpy:138
 translate turkish d01s05_dorm_b6bb3e3d:
 
     # "[mcname] pulls down his pants like they are on fire and starts furiously stroking his dick."
-    "[mcname] pulls down his pants like they are on fire and starts furiously stroking his dick."
+    "[mcname] Pantolonunu hızlıca indirir ve Masturbasyon yapmaya başlar."
 
 # game/code/d01/s05.rpy:141
 translate turkish d01s05_dorm_3b0d0567:
 
     # mct "I need to cum now! What do I think about to cum faster?"
-    mct "I need to cum now! What do I think about to cum faster?"
+    mct "Şimdi boşalmam gerek! Hızlı boşalmak için ne düşünmem gerek?"
 
 # game/code/d01/s05.rpy:150
 translate turkish d01s05_dorm_2e2a91f7:
 
     # mc "Mmmm yeah! Lydia."
-    mc "Mmmm yeah! Lydia."
+    mc "Mmmm Evet! Lydia."
 
 # game/code/d01/s05.rpy:151
 translate turkish d01s05_dorm_e2c6cf1d:
 
     # mc "You're so hot."
-    mc "You're so hot."
+    mc "Çok Seksisin."
 
 # game/code/d01/s05.rpy:162
 translate turkish d01s05_dorm_6a0f9198:
