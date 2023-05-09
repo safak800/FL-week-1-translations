@@ -22,7 +22,7 @@ translate turkish replay_d06s01_dc648576:
 translate turkish replay_d06s01_529ca68a:
 
     # mct "This is the perfect way to start a day."
-    mct "Bu, bir güne başlamak için mükemmel bir yol."
+    mct "Bu, bir güne başlamak için mükemmel bir yol.."
 
 # game/code/d06/d06s01.rpy:68
 translate turkish replay_d06s01_8ddcc085:
